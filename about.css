@@ -72,9 +72,6 @@ nav ul li a{
 }
 
 
-.widget-image{
-  height: 133px;
-}
 
 .main-widget{
   height: 356px;
@@ -535,5 +532,10 @@ img{
 
   
 
+  .widget-image{
+    height: 450px;
+    object-fit: cover;
+    background-position: center;
+  }
 
 
